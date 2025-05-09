@@ -1,0 +1,11 @@
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\config\RabbitConfig.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\service\UserService.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\controller\UserController.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\convert\BeanConvert.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\service\impl\UserServiceImpl.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\advice\ExceptionAdvice.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\dataobject\UserInfo.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\listener\UserQueueListener.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\UserServiceApplication.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\listener\HelloQueueListener.java
+G:\bitproject-master\spring-cloud-blog\user-info\user-info-service\src\main\java\com\bite\user\mapper\UserInfoMapper.java

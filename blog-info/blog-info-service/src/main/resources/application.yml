@@ -1,0 +1,42 @@
+server:
+  port: 9090
+spring:
+  application:
+    name: blog-service
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/spring_cloud_blog?characterEncoding=utf8&useSSL=false
+    username: root
+    password: 123456               #   ${mysql.password}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 117.72.40.9:8848           #  ${nacos.address}
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+logging:
+  file:
+    name: blog.log
+#---
+##开发环境
+#nacos:
+#  address: 117.72.40.9:8848
+#mysql:
+#  password: 123456
+#spring:
+#  config:
+#    activate:
+#      on-profile: dev
+#
+#---
+##生产环境
+##nacos:
+##  address: 127.0.0.1:8848
+##mysql:
+##  password: Sq66+66=66
+##spring:
+##  config:
+##    activate:
+##      on-profile: prod

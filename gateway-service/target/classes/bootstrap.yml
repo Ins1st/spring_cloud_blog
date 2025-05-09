@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: gateway-service
+  cloud:
+    nacos:
+      config:
+        server-addr: 117.72.40.9:8848          # ${nacos.address}
+        file-extension: yaml
+---
+##开发环境
+#nacos:
+#  address: 117.72.40.9:8848
+#mysql:
+#  password: 123456
+#spring:
+#  config:
+#    activate:
+#      on-profile: dev
+#
+#---
+##生产环境
+#nacos:
+#  address: 127.0.0.1:8848
+#mysql:
+#  password: Sq66+66=66
+#spring:
+#  config:
+#    activate:
+#      on-profile: prod

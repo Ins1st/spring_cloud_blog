@@ -1,0 +1,4 @@
+com\bite\blog\BlogServiceApi.class
+com\bite\blog\pojo\BlogInfoResponse.class
+com\bite\blog\pojo\UpBlogRequest.class
+com\bite\blog\pojo\AddBlogInfoRequest.class

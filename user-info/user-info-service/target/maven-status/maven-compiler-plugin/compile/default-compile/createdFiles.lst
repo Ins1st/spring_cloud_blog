@@ -1,0 +1,11 @@
+com\bite\user\service\impl\UserServiceImpl.class
+com\bite\user\advice\ExceptionAdvice.class
+com\bite\user\UserServiceApplication.class
+com\bite\user\listener\UserQueueListener.class
+com\bite\user\listener\HelloQueueListener.class
+com\bite\user\service\UserService.class
+com\bite\user\convert\BeanConvert.class
+com\bite\user\mapper\UserInfoMapper.class
+com\bite\user\config\RabbitConfig.class
+com\bite\user\controller\UserController.class
+com\bite\user\dataobject\UserInfo.class

@@ -1,0 +1,4 @@
+com\bite\gateway\GatewayServiceApplication.class
+META-INF\spring-configuration-metadata.json
+com\bite\gateway\properties\AuthWhiteName.class
+com\bite\gateway\filter\AuthFilter.class

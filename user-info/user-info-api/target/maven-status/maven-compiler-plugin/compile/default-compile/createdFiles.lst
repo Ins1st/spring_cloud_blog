@@ -1,0 +1,5 @@
+com\bite\user\api\pojo\UserInfoResponse.class
+com\bite\user\api\UserServiceApi.class
+com\bite\user\api\pojo\UserLoginResponse.class
+com\bite\user\api\pojo\UserInfoRegisterRequest.class
+com\bite\user\api\pojo\UserInfoRequest.class
